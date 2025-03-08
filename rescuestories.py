@@ -16,12 +16,7 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
-"Pawstiny Heroes", "Polar bear rescue stories", "Arctic wildlife tales", "Animal rescue videos",  
-"Environmental awareness", "Arctic fox and narwhal stories", "Wildlife conservation",  
-"Frozen Arctic survival", "Human kindness and animal tales", "Protect Arctic habitats",  
-"ArcticRescueTales", "Deep Sea", "Arctic", "wildlife", "wild animals", "touching stories",  
-"sea creatures", "rescuers", "animal", "polar bear", "rescue video", "Antarctica",  
-"Antarctic videos", "short videos" 
+"Sovereign Citizen", "Sov Cit", "Courtroom Drama", "Judge Oakley", "Judge Simpson", "Judge Fleischer", "Court Meltdown", "Instant Justice", "Wild In Court", "Logan On Law", "Sovereign Citizen Showdowns", "SovCit vs. Judge", "Crazy Courtroom Moments", "Legal Drama Unfolds", "Sov Cit Arguments", "Judge vs. Sov Cit", "Courtroom Outbursts", "Funny Court Fails", "Courtroom Clashes", "Sovereign Citizens Exposed", "Legal System Fails", "Courtroom Reality", "Sovereign Citizen Fails", "Court Drama Series" 
 ]
 
 # Fetch Data Button
