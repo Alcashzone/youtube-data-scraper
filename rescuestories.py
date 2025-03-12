@@ -16,7 +16,7 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
-"Sovereign Citizen", "Sov Cit", "Courtroom Drama", "Judge Oakley", "Judge Simpson", "Judge Fleischer", "Court Meltdown", "Instant Justice", "Wild In Court", "Logan On Law", "Sovereign Citizen Showdowns", "SovCit vs. Judge", "Crazy Courtroom Moments", "Legal Drama Unfolds", "Sov Cit Arguments", "Judge vs. Sov Cit", "Courtroom Outbursts", "Funny Court Fails", "Courtroom Clashes", "Sovereign Citizens Exposed", "Legal System Fails", "Courtroom Reality", "Sovereign Citizen Fails", "Court Drama Series" 
+"How to Earn Money From Adsterra", "Adsterra Earning Tricks", "adsterra earning trick", "adsterra earning tricks", "adsterra direct link earning", "adsterra payment proof", "adsterra high cpm tricks", "adsterra earning proof", "adsterra earning", "adsterra", "adsterra high cpm trick", "adsterra earning trick 2023", "adsterra cpm trick", "adsterra direct link earning tricks", "adsterra earning full trick", "adsterra earning full trick 2023", "adsterra high earning trick", "adsterra ads setup" 
 ]
 
 # Fetch Data Button
